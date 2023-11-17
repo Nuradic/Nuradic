@@ -6,7 +6,7 @@ I'm Murad, a passionate software engineer with a love for coding and problem-sol
 - 🌱 I’m currently learning reactjs 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Django,Flutter
-- ⚡ Fun fact: Some Facts have no Fun. 
+- ⚡ Fun fact: Some Facts are not Fun. 
 
 ## About Me
 
